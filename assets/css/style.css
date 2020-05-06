@@ -31,8 +31,6 @@ body {
 .sidebar {
     grid-row: 2 / 4;
     height: 450px;
-    border: black solid 1px;
-    border-radius: 15px;
     background-color: ivory;
 }
 
