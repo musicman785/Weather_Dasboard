@@ -1,1 +1,8 @@
 # Weather_Dasboard
+
+
+1. Started with html page. Decided to list the items in form of cards. Used minimal bootstrap library because I would use java script to add items that would be inpur by user. The number of divs and cards was determined by how many different sections I would need in total to display on browser main page. 
+
+2. CSS was added to allow for easier manipulation of the divs within the page. For this I used the css grid option. The grid allowed for faster decoration and placement on the browser page. As I have never used this system, it took me a few hours to finally set the page as required by the assignment. Still, I feel the process was much more effiecient than dealing with absolute, fixed, or relative positioning with regular css.
+
+3. Javascript is always what most of my time is consumed in. Navigating the different api calls was difficult because more than one was needed. One was used to get the genereal information through the object for things like location, temperature, and general weather information including humidity. However a separate api was needed to acquire the index information which was not easily available. Generated two separate api keys for the .ajax command to function as the api only allows a certain number of calls before asking for payment. At least, that is how I understood it. And in the process of checking my code as I went along, several api keys were generated to complete the assignment. The current api key should be good for a while but eventually must be changed I imagine. The only other issue I could not solve was how the date displays.

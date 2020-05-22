@@ -21,11 +21,13 @@ body {
 
 .main {
     grid-column: 2 / 7;
-   border: black solid 1px;
-   border-radius: 15px;
    background-color: ivory;
   
 
+}
+#UVIindex {
+    color: white;
+    background-color: red;
 }
 
 .sidebar {
@@ -39,24 +41,28 @@ body {
     border-radius: 15px;
     background-color: blue;
     color: white;
+    text-align: left;
 }
 .card-2 {
     border: black solid 1px;
     border-radius: 15px;
     background-color: blue;
     color: white;
+    text-align: left;
 }
 .card-3 {
     border: black solid 1px;
     border-radius: 15px;
     background-color: blue;
     color: white;
+    text-align: left;
 }
 .card-4 {
     border: black solid 1px;
     border-radius: 15px;
     background-color: blue;
     color: white;
+    text-align: left;
 }
 .card-5 {
     border: black solid 1px;
